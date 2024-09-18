@@ -1,0 +1,5 @@
+C:\Users\Ucenik\source\repos\Upisivanje_Podataka\Upisivanje_Podataka\obj\Debug\Upisivanje_Podataka.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Upisivanje_Podataka\Upisivanje_Podataka\obj\Debug\Upisivanje_Podataka.Form1.resources
+C:\Users\Ucenik\source\repos\Upisivanje_Podataka\Upisivanje_Podataka\obj\Debug\Upisivanje_Podataka.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Upisivanje_Podataka\Upisivanje_Podataka\obj\Debug\Upisivanje_Podataka.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Upisivanje_Podataka\Upisivanje_Podataka\obj\Debug\Upisivanje_Podataka.csproj.CoreCompileInputs.cache
